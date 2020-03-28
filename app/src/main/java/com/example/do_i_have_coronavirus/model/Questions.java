@@ -53,6 +53,7 @@ public class Questions
                     this.q6 = "";
                     this.q7 = "";
                 }
+                // you can add other bloc to validate other languages
             }
         }
     }
