@@ -15,5 +15,4 @@ public class Validation
         return this.resultOfTest;
     }
 
-
 }
