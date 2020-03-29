@@ -58,6 +58,11 @@ public class Questions
         }
     }
 
+    public String getLanguage()
+    {
+        return this.language;
+    }
+
     public String getQ1()
     {
         return this.q1;

@@ -1,8 +1,16 @@
 package com.example.do_i_have_coronavirus.operations;
 
+import com.example.do_i_have_coronavirus.model.Questions;
+
 public class Calcul
 {
     private short a1,a2,a3,a4,a5,a6,a7;
+    private Questions question;
+
+    public Questions getQuestions()
+    {
+        return this.question;
+    }
 
     public short getA1()
     {

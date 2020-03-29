@@ -8,6 +8,7 @@ public class Validation
     public Validation(Calcul calcul)
     {
         this.calcul=calcul;
+
     }
 
     public String getResultOfTest()
